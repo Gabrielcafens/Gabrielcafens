@@ -6,8 +6,8 @@ Trabalho com interfaces web modernas e também com desenvolvimento low-code em O
 
 ## 🧰 Stack
 
-![OutSystems](https://img.shields.io/badge/OutSystems-E1461C?style=for-the-badge&logoColor=white)
-
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![OutSystems](https://img.shields.io/badge/-OutSystems-E1461C?style=flat-square&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
