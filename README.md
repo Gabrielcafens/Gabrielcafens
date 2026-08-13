@@ -21,9 +21,35 @@ Trabalho com interfaces web modernas e também com desenvolvimento low-code em O
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielcafens&show_icons=true&theme=default&hide_border=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcafens&layout=compact&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielcafens&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcafens&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 ## 🔗 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel0311)
+
+```
+                      .-'   `'.
+                     /         \
+                     |         ;
+                     |         |           ___.--,
+            _.._     |0) = (0) |    _.---'`__.-( (_.
+     __.--'`_.. '.__.\    '--. \_.-' ,.--'`     `""`
+    ( ,.--'`   ',__ /./;   ;, '.__.'`    __
+    _`) )  .---.__.' / |   |\   \__..--""  """--.,_
+   `---' .'.''-._.-'`_./  /\ '.  \ _.--''````'''--._`-.__.'
+         | |  .' _.-' |  |  \  \  '.               `----`
+          \ \/ .'     \  \   '. '-._)
+           \/ /        \  \    `=.__`'-.
+           / /\         `) )    / / `"".`\
+     , _.-'.'\ \        / /    ( (     / /
+      `--'`   ) )    .-'.'      '.'.  | (
+             (/`    ( (`          ) )  '-;    
+            
+  ( (                ( (                 ( (                
+   ) )                ) )                 ) )               
+.........           .........         .........           
+|       |]         |       |]         |       |]                
+\       /           \       /         \       /              
+ `-----'             `-----'           `-----'
+```
