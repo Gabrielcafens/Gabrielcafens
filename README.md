@@ -47,11 +47,6 @@ Trabalho com interfaces web modernas e também com desenvolvimento low-code em O
 - **[MercadinhoDoTuba](https://github.com/Gabrielcafens/MercadinhoDoTuba)** — aplicação fullstack (Next.js + Express/PostgreSQL) pra gestão de listas de compras e pedidos.
 - **[product-management](https://github.com/Gabrielcafens/product-management)** — sistema de gerenciamento de produtos com Next.js e TypeScript.
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielcafens&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcafens&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
 ## 🔗 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel0311)
