@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel 👋
 
-Front-end Developer | OutSystems Front-end Developer, na [Axians](https://www.axians.com/). Recife, PE — Brasil.
+Front-end Developer | OutSystems, React, Next.js & TypeScript, na [Axians](https://www.axians.com/). Recife, PE — Brasil.
 
 Trabalho com interfaces web modernas e também com desenvolvimento low-code em OutSystems. Nas horas vagas, mantenho projetos pessoais de estudo e pequenas ferramentas.
 
@@ -26,7 +26,7 @@ Trabalho com interfaces web modernas e também com desenvolvimento low-code em O
 *fev/2024 — nov/2024*
 
 **Desenvolvedor Android** — e.AÍ Tecnologias Inteligentes
-*set/2023 — fev/2024* · desenvolvimento de app em Kotlin pra controle de robô autônomo
+*set/2023 — fev/2024* · app em Kotlin pra controle de robô autônomo de desinfecção com IA embarcada
 
 **Desenvolvedor JavaScript (Front-End), STI Labs** — Universidade Federal de Pernambuco
 *jul/2022 — dez/2023*
@@ -41,6 +41,9 @@ Trabalho com interfaces web modernas e também com desenvolvimento low-code em O
 
 **Bacharelado em Sistemas da Informação** — Universidade Federal Rural de Pernambuco
 *2022 — 2026*
+
+**CST em Análise e Desenvolvimento de Sistemas** — UNINASSAU
+*conclusão prevista: dez/2026*
 
 ## 🔗 Contato
 
