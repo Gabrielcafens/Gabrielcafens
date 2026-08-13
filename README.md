@@ -41,12 +41,6 @@ Trabalho com interfaces web modernas e também com desenvolvimento low-code em O
 **Bacharelado em Sistemas da Informação** — Universidade Federal Rural de Pernambuco
 *2022 — 2026*
 
-## 📌 Projetos em destaque
-
-- **[os-prep](https://github.com/Gabrielcafens/os-prep)** — app de estudo pra certificação OutSystems Associate Reactive Developer, com simulados, flashcards e tracker de progresso.
-- **[MercadinhoDoTuba](https://github.com/Gabrielcafens/MercadinhoDoTuba)** — aplicação fullstack (Next.js + Express/PostgreSQL) pra gestão de listas de compras e pedidos.
-- **[product-management](https://github.com/Gabrielcafens/product-management)** — sistema de gerenciamento de produtos com Next.js e TypeScript.
-
 ## 🔗 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel0311)
