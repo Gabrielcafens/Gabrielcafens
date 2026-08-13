@@ -12,6 +12,34 @@ Trabalho com interfaces web modernas e também com desenvolvimento low-code em O
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![OutSystems](https://img.shields.io/badge/-OutSystems-0A1F44?style=flat-square&logo=outsystems&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## 💼 Experiência
+
+**Front-end Developer | OutSystems Front-end Developer** — [Axians](https://www.axians.com/)
+*nov/2024 — atual*
+
+**Desenvolvedor web front-end** — NE TEC
+*fev/2024 — nov/2024*
+
+**Desenvolvedor Android** — e.AÍ Tecnologias Inteligentes
+*set/2023 — fev/2024* · desenvolvimento de app em Kotlin pra controle de robô autônomo
+
+**Desenvolvedor JavaScript (Front-End), STI Labs** — Universidade Federal de Pernambuco
+*jul/2022 — dez/2023*
+
+**Estagiário de sistemas da informação** — 3C Tecnologia LTDA
+*jan/2022 — jun/2022* · JavaScript, PHP, Python, Shellscript
+
+**Estagiário de TI** — Universidade de Pernambuco
+*jun/2021 — dez/2021*
+
+## 🎓 Formação
+
+**Bacharelado em Sistemas da Informação** — Universidade Federal Rural de Pernambuco
+*2022 — 2026*
 
 ## 📌 Projetos em destaque
 
