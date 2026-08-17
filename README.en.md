@@ -1,10 +1,10 @@
-🇧🇷 **Português** | 🇺🇸 [English](README.en.md)
+🇧🇷 [Português](README.md) | 🇺🇸 **English**
 
-# Olá, eu sou o Gabriel 👋
+# Hi, I'm Gabriel 👋
 
-Front-end Developer | OutSystems, React, Next.js & TypeScript, na [Axians](https://www.axians.com/). Recife, PE — Brasil.
+Front-end Developer | OutSystems, React, Next.js & TypeScript, at [Axians](https://www.axians.com/). Recife, PE — Brazil.
 
-Trabalho com interfaces web modernas e também com desenvolvimento low-code em OutSystems. Nas horas vagas, mantenho projetos pessoais de estudo e pequenas ferramentas.
+I work with modern web interfaces and low-code development on OutSystems. In my spare time, I maintain personal study projects and small tools.
 
 ## 🧰 Stack
 
@@ -19,35 +19,35 @@ Trabalho com interfaces web modernas e também com desenvolvimento low-code em O
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 💼 Experiência
+## 💼 Experience
 
 **Front-end Developer | OutSystems Front-end Developer** — [Axians](https://www.axians.com/)
-*nov/2024 — atual*
+*Nov 2024 — present*
 
-**Desenvolvedor web front-end** — NE TEC
-*fev/2024 — nov/2024*
+**Front-end Web Developer** — NE TEC
+*Feb 2024 — Nov 2024*
 
-**Desenvolvedor Android** — e.AÍ Tecnologias Inteligentes
-*set/2023 — fev/2024* · app em Kotlin pra controle de robô autônomo de desinfecção com IA embarcada
+**Android Developer** — e.AÍ Tecnologias Inteligentes
+*Sep 2023 — Feb 2024* · Kotlin app to control an autonomous AI-powered disinfection robot
 
-**Desenvolvedor JavaScript (Front-End), STI Labs** — Universidade Federal de Pernambuco
-*jul/2022 — dez/2023*
+**Front-End JavaScript Developer, STI Labs** — Universidade Federal de Pernambuco
+*Jul 2022 — Dec 2023*
 
-**Estagiário de sistemas da informação** — 3C Tecnologia LTDA
-*jan/2022 — jun/2022* · JavaScript, PHP, Python, Shellscript
+**Information Systems Intern** — 3C Tecnologia LTDA
+*Jan 2022 — Jun 2022* · JavaScript, PHP, Python, Shellscript
 
-**Estagiário de TI** — Universidade de Pernambuco
-*jun/2021 — dez/2021*
+**IT Intern** — Universidade de Pernambuco
+*Jun 2021 — Dec 2021*
 
-## 🎓 Formação
+## 🎓 Education
 
-**Bacharelado em Sistemas da Informação** — Universidade Federal Rural de Pernambuco
+**Bachelor's Degree in Information Systems** — Universidade Federal Rural de Pernambuco
 *2022 — 2026*
 
-**CST em Análise e Desenvolvimento de Sistemas** — UNINASSAU
-*conclusão prevista: dez/2026*
+**Associate Degree in Systems Analysis and Development** — UNINASSAU
+*expected graduation: Dec 2026*
 
-## 🔗 Contato
+## 🔗 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel0311)
 
